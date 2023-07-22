@@ -1,4 +1,5 @@
 # TetrisAI
+
 Using the evolution algorithm. Starting from one to four parameters of weight,
 including max height, bumpiness, number of holes, and pillars. The purpose of choosing these
 parameters are trying to make the builds as flat as possible.
